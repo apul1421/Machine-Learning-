@@ -4,7 +4,8 @@ These are some basic machine learning projects with some conceptual explanation 
 Linear Regression model is one of simplest model. It uses the slope equation for training the model and find correlation between the Dependent Variables and  the Independent Variables 
 
 Equation:
-y = b_{0} + b_{1}*x_{1}
+<a href="https://www.codecogs.com/eqnedit.php?latex=y&space;=&space;b_{0}&space;&plus;&space;b_{1}*x_{1}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?y&space;=&space;b_{0}&space;&plus;&space;b_{1}*x_{1}" title="y = b_{0} + b_{1}*x_{1}" /></a>
+
 y= Dependent Variable 
 b_{0} = Constant
 b_{1} = Coefficient
@@ -13,7 +14,7 @@ x_{1} = Independent Variable
 ### Project 1:
 ### [Salary - Experience Plot](https://github.com/apul1421/Machine-Learning-/blob/master/linear_regressionpractice.py)
 #### Data Preprocessing(Common for all the  models) 
-1. First import the dataset[download data](https://github.com/apul1421/Machine-Learning-/blob/master/Salary_Data.csv)
+1. First import the dataset [download data](https://github.com/apul1421/Machine-Learning-/blob/master/Salary_Data.csv)
 2. Split the data into training as well as test set
 3. Do feature scaling(if required)
 
