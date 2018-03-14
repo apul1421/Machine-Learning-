@@ -20,6 +20,6 @@ y= Dependent Variable <br>
 
 #### Training the model 
 4. Fitting Simple Linear Regression to the Training Set <br> 
-  Salary = <a href="https://www.codecogs.com/eqnedit.php?latex=b_{0}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?b_{0}" title="b_{0}" /></a> = Constant + <a href="https://www.codecogs.com/eqnedit.php?latex=b_{1}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?b_{1}" title="b_{1}" /></a>*Experience
+   Equation of the problem set:<a href="https://www.codecogs.com/eqnedit.php?latex=Salary&space;=&space;b_{0}&space;&plus;&space;b_{1}*Experience" target="_blank"><img src="https://latex.codecogs.com/gif.latex?Salary&space;=&space;b_{0}&space;&plus;&space;b_{1}*Experience" title="Salary = b_{0} + b_{1}*Experience" /></a>
 5. Predicting the test set result 
 6. Visualising the result
