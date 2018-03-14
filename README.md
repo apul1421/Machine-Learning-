@@ -19,7 +19,8 @@ y= Dependent Variable <br>
 3. Do feature scaling(if required)
 
 #### Training the model 
-4. Fitting Simple Linear Regression to the Training Set <br> 
-   Equation of the problem set:<a href="https://www.codecogs.com/eqnedit.php?latex=Salary&space;=&space;b_{0}&space;&plus;&space;b_{1}*Experience" target="_blank"><img src="https://latex.codecogs.com/gif.latex?Salary&space;=&space;b_{0}&space;&plus;&space;b_{1}*Experience" title="Salary = b_{0} + b_{1}*Experience" /></a>
+4. Fitting Simple Linear Regression to the Training Set 
+   ##### Equation of the problem set:<br>
+   <a href="https://www.codecogs.com/eqnedit.php?latex=Salary&space;=&space;b_{0}&space;&plus;&space;b_{1}*Experience" target="_blank"><img src="https://latex.codecogs.com/gif.latex?Salary&space;=&space;b_{0}&space;&plus;&space;b_{1}*Experience" title="Salary = b_{0} + b_{1}*Experience" /></a>
 5. Predicting the test set result 
 6. Visualising the result
