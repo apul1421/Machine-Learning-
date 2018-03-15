@@ -24,3 +24,6 @@ y= Dependent Variable <br>
    <a href="https://www.codecogs.com/eqnedit.php?latex=Salary&space;=&space;b_{0}&space;&plus;&space;b_{1}*Experience" target="_blank"><img src="https://latex.codecogs.com/gif.latex?Salary&space;=&space;b_{0}&space;&plus;&space;b_{1}*Experience" title="Salary = b_{0} + b_{1}*Experience" /></a>
 5. Predicting the test set result 
 6. Visualising the result
+
+## Multiple Linear Regression
+Just like Linear Regression model Multiple Regression model too quite similar . It uses the slope equation for training the model and find correlation between the Dependent Variables and  the Independent Variables 
