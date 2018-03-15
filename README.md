@@ -14,7 +14,7 @@ y= Dependent Variable <br>
 ### Project 1:
 ### [Salary - Experience Plot](https://github.com/apul1421/Machine-Learning-/blob/master/linear_regressionpractice.py)
 #### Data Preprocessing(Common for all the  models) 
-1. First import the dataset ([download data])(https://github.com/apul1421/Machine-Learning-/blob/master/Salary_Data.csv)
+1. First import the dataset [(download data)](https://github.com/apul1421/Machine-Learning-/blob/master/Salary_Data.csv)
 2. Split the data into training as well as test set
 3. Do feature scaling(if required)
 
