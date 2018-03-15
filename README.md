@@ -26,4 +26,48 @@ y= Dependent Variable <br>
 6. Visualising the result
 
 ## Multiple Linear Regression
-Just like Linear Regression model Multiple Regression model too quite similar . It uses the slope equation for training the model and find correlation between the Dependent Variables and  the Independent Variables 
+Unlike Linear Regression model in which one independent variable used to have correlation with a dependent variable Multiple Regression model contains many Independent variable which depends on Dependent variable.<br>
+Equation:<br>
+<a href="https://www.codecogs.com/eqnedit.php?latex=y&space;=&space;b_{0}&space;&plus;&space;b_{1}*x_{1}&plus;b_{2}*x_{2}&plus;....&plus;b_{n}*x_{n}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?y&space;=&space;b_{0}&space;&plus;&space;b_{1}*x_{1}&plus;b_{2}*x_{2}&plus;....&plus;b_{n}*x_{n}" title="y = b_{0} + b_{1}*x_{1}+b_{2}*x_{2}+....+b_{n}*x_{n}" /></a>
+<br>
+<a href="https://www.codecogs.com/eqnedit.php?latex=y" target="_blank"><img src="https://latex.codecogs.com/gif.latex?y" title="y" /></a> = Dependent Variable <br>
+<a href="https://www.codecogs.com/eqnedit.php?latex=b_{0}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?b_{0}" title="b_{0}" /></a> = Constant <br>
+<a href="https://www.codecogs.com/eqnedit.php?latex=b_{1}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?b_{1}" title="b_{1}" /></a> = Coefficient <br>
+<a href="https://www.codecogs.com/eqnedit.php?latex=b_{1}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?b_{1}" title="x_{1}" /></a> = Independent Variable <br>
+
+### Project 2:
+### [Startup Funding Example](https://github.com/apul1421/Machine-Learning-/blob/master/linear_regressionpractice.py)
+->As an investor its important to consider all the dynamics of a Company before investing in it so here in this is example we will develop a model which will predict the <br>
+Here in this example <b>Profit</b> is a <b>Dependent Variable</b><br>
+<b>R&D Spend , Admin Spend, State and Marketing Spend</b> are Independent Variables<br>
+
+Since State here is a categorical variable so we need to make Dummy Variable out of it i.e. <br>
+
+<b>Categorical Variable</b>
+<table style="width:100%">
+  <tr>
+    <th>State</th>
+  </tr>
+  <tr>
+    <td>New York</td>
+  </tr>
+  <tr>
+    <td>California</td>
+  </tr>
+</table>
+
+<b>Dummy Variable</b>
+<table style="width:100%">
+  <tr>
+    <th>New York</th>
+    <th>California</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>0</td>
+  </tr>
+  <tr>
+    <td>0</td>
+    <td>1</td>
+  </tr>
+</table>
