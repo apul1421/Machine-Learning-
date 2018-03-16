@@ -41,11 +41,13 @@ Equation:<br>
 
 <b>Dependent Variable</b><br>
 1. Profit <br>
+
 <b>Independent Variable </b><br>
 1. R&D Spend<br>
 2. Admin Spend<br>
 3. Marketing Spend<br>
 4. State<br>
+
 Since State here is a categorical variable so we need to make Dummy Variable out of it i.e. <br>
 
 <b>Categorical Variable</b>
