@@ -36,7 +36,7 @@ Equation:<br>
 <a href="https://www.codecogs.com/eqnedit.php?latex=b_{1}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?b_{1}" title="x_{1}" /></a> = Independent Variable <br>
 
 ### Project 2:
-### [Startup Funding Example](https://github.com/apul1421/Machine-Learning-/blob/master/linear_regressionpractice.py)
+### [Startup Funding Example](https://github.com/apul1421/Machine-Learning-/blob/master/multiple_linear_regression_practice.py)[ Sample Data](https://github.com/apul1421/Machine-Learning-/blob/master/50_Startups.csv)
 ->As an investor its important to consider all the dynamics of a Company before investing in it ,so here in this example we will develop a model which will predict the dependency of several independent variables on profit of a startup <br>
 
 <b>Dependent Variable</b><br>
