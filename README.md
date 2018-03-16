@@ -1,6 +1,6 @@
 # Machine-Learning
 These are some basic machine learning projects with some conceptual explanation we wil first start with something very basic i.e Linear Regression
-## Linear Regression
+## Simple Linear Regression
 Linear Regression model is one of simplest model. It uses the slope equation for training the model and find correlation between the Dependent Variables and  the Independent Variables 
 
 Equation:
@@ -102,3 +102,6 @@ Step-2:Fit full model with all predictors<br>
 Step-3:Consider the predictor with highest P-value. If P>SL go to Step-4 or go to FIN<br>
 Step-4:Remove the predictor<br>
 Step-5:Fit model without this variable (Move to step-3)<br>
+
+## Polynomial Linear Regression
+Coming Soon
