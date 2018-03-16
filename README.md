@@ -85,3 +85,20 @@ In Dummy Variable trap there is a phenomenon Multicollinearity i.e when one or m
 <a href="https://www.codecogs.com/eqnedit.php?latex=D_{2}&space;=&space;1-D_{1}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?D_{2}&space;=&space;1-D_{1}" title="D_{2} = 1-D_{1}" /></a><br>
 Where D1 and D2 are two Dummy Variables<br>
 
+<b>In a model we need to throw/omit columns. But why?</b><br>
+1. If a model contains lots of stuff then its a garbage model.<br>
+2. If there are more variables then it is difficult to explain all the variables dependeny.<br>
+
+### Five methods to build a model<br>
+-> All In<br>
+-> Backward Elimination(In this example we will focus on this method)<br>
+-> Forward Elimination<br>
+-> Bidirectional Elimination<br>
+-> Score Comparison<br> 
+
+<b>Backward Elimination</b>
+Step-1:Select a significance level to stay in the model(eg: SL = 0.05)<br>
+Step-2:Fit full model with all predictors<br>
+Step-3:Consider the predictor with highest P-value. If P>SL go to Step-4 or go to FIN<br>
+Step-4:Remove the predictor<br>
+Step-5:Fit model without this variable (Move to step-3)<br>
