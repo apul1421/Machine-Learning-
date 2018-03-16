@@ -96,7 +96,7 @@ Where D1 and D2 are two Dummy Variables<br>
 -> Bidirectional Elimination<br>
 -> Score Comparison<br> 
 
-<b>Backward Elimination</b>
+<b>Backward Elimination</b><br>
 Step-1:Select a significance level to stay in the model(eg: SL = 0.05)<br>
 Step-2:Fit full model with all predictors<br>
 Step-3:Consider the predictor with highest P-value. If P>SL go to Step-4 or go to FIN<br>
