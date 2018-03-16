@@ -37,10 +37,15 @@ Equation:<br>
 
 ### Project 2:
 ### [Startup Funding Example](https://github.com/apul1421/Machine-Learning-/blob/master/linear_regressionpractice.py)
-->As an investor its important to consider all the dynamics of a Company before investing in it so here in this is example we will develop a model which will predict the <br>
-Here in this example <b>Profit</b> is a <b>Dependent Variable</b><br>
-<b>R&D Spend , Admin Spend, State and Marketing Spend</b> are Independent Variables<br>
+->As an investor its important to consider all the dynamics of a Company before investing in it ,so here in this example we will develop a model which will predict the dependency of several independent variables on profit of a startup <br>
 
+<b>Dependent Variable</b><br>
+1. Profit <br>
+<b>Independent Variable </b><br>
+1. R&D Spend<br>
+2. Admin Spend<br>
+3. Marketing Spend<br>
+4. State<br>
 Since State here is a categorical variable so we need to make Dummy Variable out of it i.e. <br>
 
 <b>Categorical Variable</b>
@@ -71,3 +76,10 @@ Since State here is a categorical variable so we need to make Dummy Variable out
     <td>1</td>
   </tr>
 </table>
+<br>
+<b>What will happen is we consider both the Dummy Variables in the model?</b><br>
+If we consider both the dummy variable(i.e New York and California) in the model then model will suffer from a phenomenon called as Dummy Variable Trap.
+In Dummy Variable trap there is a phenomenon Multicollinearity i.e when one or more Independent variables in a linear regression predict another. As a result of this model cannot distinguish the effect of D1 from D2.So to avoid this problem always omit one variable from the model ,so if there are 2 variables omit 1<br>
+<a href="https://www.codecogs.com/eqnedit.php?latex=D_{2}&space;=&space;1-D_{1}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?D_{2}&space;=&space;1-D_{1}" title="D_{2} = 1-D_{1}" /></a><br>
+Where D1 and D2 are two Dummy Variables<br>
+
