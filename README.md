@@ -37,7 +37,7 @@ Equation:<br>
 
 ### Project 2:
 ### [Startup Funding Example](https://github.com/apul1421/Machine-Learning-/blob/master/multiple_linear_regression_practice.py)
-->As an investor its important to consider all the dynamics of a Company before investing in it ,so here in this example we will develop a model which will predict the dependency of several independent variables on profit of a startup <br>[Sample Data](https://github.com/apul1421/Machine-Learning-/blob/master/50_Startups.csv)
+->As an investor its important to consider all the dynamics of a Company before investing in it ,so here in this example we will develop a model which will predict the dependency of several independent variables on profit of a startup <br>[Sample data download](https://github.com/apul1421/Machine-Learning-/blob/master/50_Startups.csv)
 
 <b>Dependent Variable</b><br>
 1. Profit <br>
