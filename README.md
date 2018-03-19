@@ -116,5 +116,5 @@ But if the data shows curve effect something like below then we choose Polynomia
 <img src="http://www.statisticshowto.com/wp-content/uploads/2015/01/excel-polynomial-regression-300x180.png"><br>
 
 #### Why is Polynomial Linear Equation called Linear ?
-Here linear refers to the coeficient because our end goal is to find out b coeficients so that later we can plug x and get y.<br>
+Here linear refers to the coefficient because our end goal is to find out b coefficients so that later we can plug x and get y.<br>
 
