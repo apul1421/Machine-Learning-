@@ -107,4 +107,14 @@ Step-5:Fit model without this variable (Move to step-3)<br>
 ## Polynomial Linear Regression
 In a polynomial Linear Regression we have one variable having different power<br>
 <b>Equation:</b><br>
-<a href="http://www.codecogs.com/eqnedit.php?latex=\small&space;y&space;=&space;b_{0}&plus;b_{1}x_{1}&plus;b_{2}x_{1}^{2}&plus;......&plus;b_{n}x_{1}^{n}" target="_blank"><img src="http://latex.codecogs.com/gif.latex?\small&space;y&space;=&space;b_{0}&plus;b_{1}x_{1}&plus;b_{2}x_{1}^{2}&plus;......&plus;b_{n}x_{1}^{n}" title="\small y = b_{0}+b_{1}x_{1}+b_{2}x_{1}^{2}+......+b_{n}x_{1}^{n}" /></a>
+<a href="http://www.codecogs.com/eqnedit.php?latex=\small&space;y&space;=&space;b_{0}&plus;b_{1}x_{1}&plus;b_{2}x_{1}^{2}&plus;......&plus;b_{n}x_{1}^{n}" target="_blank"><img src="http://latex.codecogs.com/gif.latex?\small&space;y&space;=&space;b_{0}&plus;b_{1}x_{1}&plus;b_{2}x_{1}^{2}&plus;......&plus;b_{n}x_{1}^{n}" title="\small y = b_{0}+b_{1}x_{1}+b_{2}x_{1}^{2}+......+b_{n}x_{1}^{n}" /></a><br>
+
+#### When to use Polynomial Regression?<br>
+As told earlier if the data is fitting the best fit line like the below example we choose Linear Regression 
+<img src="http://108.61.119.12/wp-content/uploads/2014/05/simple-linear-regression.png" width="400" height="220"><br>
+But if the data shows curve effect something like below then we choose Polynomial Regression<br>
+<img src="http://www.statisticshowto.com/wp-content/uploads/2015/01/excel-polynomial-regression-300x180.png"><br>
+
+#### Why is Polynomial Linear Equation called Linear ?
+Here linear refers to the coeficient because our end goal is to find out b coeficients so that later we can plug x and get y.<br>
+
