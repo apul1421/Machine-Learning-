@@ -3,7 +3,7 @@ These are some basic machine learning projects with some conceptual explanation 
 ## Simple Linear Regression
 Linear Regression model is one of simplest model. It uses the slope equation for training the model and find correlation between the Dependent Variables and  the Independent Variables 
 
-Equation:
+<b>Equation:</b>
 <a href="https://www.codecogs.com/eqnedit.php?latex=y&space;=&space;b_{0}&space;&plus;&space;b_{1}*x_{1}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?y&space;=&space;b_{0}&space;&plus;&space;b_{1}*x_{1}" title="y = b_{0} + b_{1}*x_{1}" /></a>
 
 y= Dependent Variable <br>
@@ -27,7 +27,8 @@ y= Dependent Variable <br>
 
 ## Multiple Linear Regression
 Unlike Linear Regression model in which one independent variable used to have correlation with a dependent variable Multiple Regression model contains many Independent variable which depends on Dependent variable.<br>
-Equation:<br>
+
+<b>Equation:</b><br>
 <a href="https://www.codecogs.com/eqnedit.php?latex=y&space;=&space;b_{0}&space;&plus;&space;b_{1}*x_{1}&plus;b_{2}*x_{2}&plus;....&plus;b_{n}*x_{n}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?y&space;=&space;b_{0}&space;&plus;&space;b_{1}*x_{1}&plus;b_{2}*x_{2}&plus;....&plus;b_{n}*x_{n}" title="y = b_{0} + b_{1}*x_{1}+b_{2}*x_{2}+....+b_{n}*x_{n}" /></a>
 <br>
 <a href="https://www.codecogs.com/eqnedit.php?latex=y" target="_blank"><img src="https://latex.codecogs.com/gif.latex?y" title="y" /></a> = Dependent Variable <br>
@@ -104,4 +105,6 @@ Step-4:Remove the predictor<br>
 Step-5:Fit model without this variable (Move to step-3)<br>
 
 ## Polynomial Linear Regression
-Coming Soon
+In a polynomial Linear Regression we have one variable having different power<br>
+<b>Equation:</b><br>
+<a href="http://www.codecogs.com/eqnedit.php?latex=\small&space;y&space;=&space;b_{0}&plus;b_{1}x_{1}&plus;b_{2}x_{1}^{2}&plus;......&plus;b_{n}x_{1}^{n}" target="_blank"><img src="http://latex.codecogs.com/gif.latex?\small&space;y&space;=&space;b_{0}&plus;b_{1}x_{1}&plus;b_{2}x_{1}^{2}&plus;......&plus;b_{n}x_{1}^{n}" title="\small y = b_{0}+b_{1}x_{1}+b_{2}x_{1}^{2}+......+b_{n}x_{1}^{n}" /></a>
