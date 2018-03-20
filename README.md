@@ -118,3 +118,7 @@ But if the data shows curve effect something like below then we choose Polynomia
 #### Why is Polynomial Linear Equation called Linear ?
 Here linear refers to the coefficient because our end goal is to find out b coefficients so that later we can plug x and get y.<br>
 
+### Project 3:
+### [Salary Bluff Check](https://github.com/apul1421/Machine-Learning-/blob/master/polynomial_regression_practice.py)<br>
+[Download Data](https://github.com/apul1421/Machine-Learning-/blob/master/Position_Salaries.csv)<br>
+In this example the problem statement is  that a person is joining a new company where he asks for salary of more then $160K as in his previous company he is used to get 160K for 20+ years experience .However HR wants to find whether he telling truth regarding his previous companies salary so HR gets the data of the previous companies salary chart.<br> 
