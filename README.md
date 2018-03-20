@@ -13,8 +13,9 @@ y= Dependent Variable <br>
 
 ### Project 1:
 ### [Salary - Experience Plot](https://github.com/apul1421/Machine-Learning-/blob/master/linear_regressionpractice.py)
+[Download Data](https://github.com/apul1421/Machine-Learning-/blob/master/Salary_Data.csv)<br>
 #### Data Preprocessing(Common for all the  models) 
-1. First import the dataset [(download data)](https://github.com/apul1421/Machine-Learning-/blob/master/Salary_Data.csv)
+1. First import the dataset.
 2. Split the data into training as well as test set
 3. Do feature scaling(if required)
 
@@ -38,7 +39,8 @@ Unlike Linear Regression model in which one independent variable used to have co
 
 ### Project 2:
 ### [Startup Funding Example](https://github.com/apul1421/Machine-Learning-/blob/master/multiple_linear_regression_practice.py)
-->As an investor its important to consider all the dynamics of a Company before investing in it ,so here in this example we will develop a model which will predict the dependency of several independent variables on profit of a startup <br>[Sample data download](https://github.com/apul1421/Machine-Learning-/blob/master/50_Startups.csv)
+[Download Data](https://github.com/apul1421/Machine-Learning-/blob/master/50_Startups.csv)<br>
+->As an investor its important to consider all the dynamics of a Company before investing in it ,so here in this example we will develop a model which will predict the dependency of several independent variables on profit of a startup <br>
 
 <b>Dependent Variable</b><br>
 1. Profit <br>
